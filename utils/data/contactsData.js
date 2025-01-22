@@ -4,7 +4,7 @@ export const contactsData = {
     address: "New Delhi, India",
     github: "https://github.com/Nukealbert",
     facebook: '',
-    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+    linkedIn: 'https://www.linkedin.com/in/developerkundankumar/',
     twitter: '',
     stackOverflow: '',
     devUsername: "Kundan Kumar",
